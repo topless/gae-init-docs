@@ -26,6 +26,7 @@ DEFAULT_DB_LIMIT = 64
 # SITE
 ################################################################################
 REQUIREMENT = [
+  ('python', 'Python 2.7', 'Required'),
   ('gae', 'Google App Engine', 'Required'),
   ('nodejs', 'node.js', 'Required'),
 ]
